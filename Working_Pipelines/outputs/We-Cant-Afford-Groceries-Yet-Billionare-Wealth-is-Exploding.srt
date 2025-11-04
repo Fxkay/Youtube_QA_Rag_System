@@ -1,0 +1,1203 @@
+1
+00:00:00,560 --> 00:00:05,600
+Hi, welcome to another episode of ColdFusion. Take a look at this picture. It features prominent
+
+2
+00:00:05,600 --> 00:00:11,919
+tech individuals like Meta's Mark Zuckerberg, Amazon's Jeff Bezos, Google's CEO Sundar Pichai,
+
+3
+00:00:11,919 --> 00:00:16,800
+and Tesla's Elon Musk. As of recording this video, the combined net worth of these four
+
+4
+00:00:16,800 --> 00:00:24,480
+people is over $700 billion. In fact, Mark, Jeff, and Elon are centi-billionaires.
+
+5
+00:00:25,519 --> 00:00:29,359
+Of course, the recent stock market dip may have wiped off some of their wealth,
+
+6
+00:00:29,359 --> 00:00:34,640
+but these billionaires can still sleep easy enough at night. People with dozen-digit fortunes
+
+7
+00:00:34,640 --> 00:00:40,240
+didn't exist eight years ago, but now according to the Forbes 2025 billionaire list, a record
+
+8
+00:00:40,240 --> 00:00:46,719
+15 people are on that list, and that's up from just six in 2023. When Forbes first made this
+
+9
+00:00:46,719 --> 00:00:51,519
+list in 1987, they had to scrape to find individuals worth more than $28 billion,
+
+10
+00:00:51,519 --> 00:00:57,200
+adjusted for inflation, and all they could find were just two Japanese tycoons. And now
+
+11
+00:00:57,200 --> 00:01:02,240
+today, that $28 billion amount isn't even enough to land you in the top 50 of that list.
+
+12
+00:01:02,240 --> 00:01:08,159
+The trend is as clear as day. There's no stopping these billionaires. In 2024 alone,
+
+13
+00:01:08,159 --> 00:01:14,000
+billionaire wealth surged by $2 trillion. That's at a rate three times faster than
+
+14
+00:01:14,000 --> 00:01:19,520
+the entire global economy. And for the first time in history, the richest Americans now pay
+
+15
+00:01:19,520 --> 00:01:25,520
+less tax than the working class. Something is clearly wrong. But what? It's not a question
+
+16
+00:01:25,519 --> 00:01:29,840
+of why there's such inequality, but more a question of how this is all happening.
+
+17
+00:01:30,560 --> 00:01:35,359
+Why are families struggling to buy cartons of eggs, while billionaires seem to keep adding
+
+18
+00:01:35,359 --> 00:01:39,679
+to their wealth with absolute ease? What happens to the world economy if this trend
+
+19
+00:01:39,679 --> 00:01:44,560
+keeps on going? Does the middle class cease to exist? And what can we do to fix all of this
+
+20
+00:01:44,560 --> 00:01:47,359
+and not repeat the same mistakes? Let's take a look.
+
+21
+00:01:59,760 --> 00:02:05,200
+The world's richest people are just getting richer and even faster than expected.
+
+22
+00:02:05,840 --> 00:02:09,920
+Oxfam's annual inequality report says five people are now on track to reach
+
+23
+00:02:09,920 --> 00:02:14,720
+trillionaire status within the next decade. Elon Musk is first in line,
+
+24
+00:02:14,720 --> 00:02:20,160
+followed by Amazon's Jeff Bezos, Oracle's Larry Ellison, Meta's Mark Zuckerberg and
+
+25
+00:02:20,160 --> 00:02:26,320
+LVMH's Bernard Arnaud. Whenever numbers like millions, billions and trillions are discussed,
+
+26
+00:02:26,320 --> 00:02:30,000
+it's often difficult to put the vast difference between them into context.
+
+27
+00:02:30,000 --> 00:02:35,200
+So let's start there. If you, yes you watching, made $1 every second,
+
+28
+00:02:35,200 --> 00:02:38,400
+you'd be a millionaire in 12 days. That's under two weeks.
+
+29
+00:02:39,120 --> 00:02:44,320
+But how long would it take to reach a billion dollars? Six months? A year? Well,
+
+30
+00:02:44,320 --> 00:02:50,480
+at a rate of $1 per second, every day, non-stop, you'd need over 31 years.
+
+31
+00:02:51,120 --> 00:02:55,840
+And that's just for 1 billion. As we know, the world's richest have not just 1 billion,
+
+32
+00:02:55,840 --> 00:03:00,160
+but tens, even hundreds of billions. And their wealth just keeps growing.
+
+33
+00:03:00,799 --> 00:03:06,639
+For example, in 2024, their combined wealth skyrocketed from 13 trillion to 15 trillion
+
+34
+00:03:06,639 --> 00:03:13,120
+in just 12 months. And the richest 10 men saw their fortunes grow by an average of 100 million
+
+35
+00:03:13,120 --> 00:03:17,519
+per day. That's more than what entire villages or towns in some parts of the
+
+36
+00:03:17,519 --> 00:03:23,680
+world will earn in a lifetime, every single day. And these guys, the billionaires,
+
+37
+00:03:23,680 --> 00:03:27,199
+have been absolute vacuum cleaners of wealth over the past few decades.
+
+38
+00:03:27,680 --> 00:03:34,560
+The top 1% alone has captured 38% of all new wealth created since 1995.
+
+39
+00:03:35,120 --> 00:03:38,640
+And this is at the same time where the poorest half of the world's population,
+
+40
+00:03:38,640 --> 00:03:43,200
+which is around 3.8 billion people, owns just 2% of global wealth.
+
+41
+00:03:43,840 --> 00:03:49,200
+Think about that for a second. No matter how you look at it, these stats are staggering.
+
+42
+00:03:50,160 --> 00:03:54,560
+The ultra-rich are clearly pulling further ahead, while half the world is effectively
+
+43
+00:03:54,560 --> 00:03:58,800
+locked out of wealth. And it goes further. It's not just numbers on paper.
+
+44
+00:03:58,800 --> 00:04:02,479
+This kind of money can warp economies, influence politics,
+
+45
+00:04:02,479 --> 00:04:05,520
+and shape the world in ways that we can barely comprehend.
+
+46
+00:04:05,520 --> 00:04:09,759
+You don't see it much on TV. You don't hear it talked about here at all.
+
+47
+00:04:10,879 --> 00:04:17,439
+But the American people do not believe that it is appropriate that three people, one, two,
+
+48
+00:04:17,519 --> 00:04:25,439
+three, Mr. Musk, Mr. Bezos, and Mr. Zuckerberg, three Americans own more wealth than the bottom
+
+49
+00:04:25,439 --> 00:04:33,279
+half of American society, 170 million people. And that's not a useless fact either. Massive
+
+50
+00:04:33,279 --> 00:04:37,839
+wealth inequality usually comes before internal conflict. Or more accurately,
+
+51
+00:04:37,839 --> 00:04:44,879
+it's a symptom of a deeper problem. When the government has problems funding itself,
+
+52
+00:04:44,879 --> 00:04:50,800
+when there are bad economic conditions and living standards for most people are declining,
+
+53
+00:04:51,439 --> 00:04:59,439
+and there are large wealth values and political gaps, internal conflict between the rich and
+
+54
+00:04:59,439 --> 00:05:05,680
+the poor as well as different ethnic, religious, and racial groups greatly increases.
+
+55
+00:05:05,680 --> 00:05:11,759
+This leads to political extremism that shows up as populism of the left or the right.
+
+56
+00:05:12,399 --> 00:05:16,959
+Those of the left seek to redistribute the wealth, while those of the right seek to
+
+57
+00:05:16,959 --> 00:05:22,719
+maintain the wealth in the hands of the rich. Ray Dalio, a billionaire investor and economic
+
+58
+00:05:22,719 --> 00:05:28,159
+historian puts it this way. Quote, I've studied the last 500 years of history and cycles,
+
+59
+00:05:28,159 --> 00:05:32,879
+and these things repeat over and over again. Large wealth gaps with large value gaps at
+
+60
+00:05:32,879 --> 00:05:36,959
+the same time, as there's a lot of debt and there's an economic downturn produces
+
+61
+00:05:36,959 --> 00:05:42,079
+conflict and vulnerability. One of the biggest impacts the rising wealth gap has had is the
+
+62
+00:05:42,079 --> 00:05:46,159
+shrinking middle class. The middle class is one of the hallmarks of a healthy economy,
+
+63
+00:05:46,159 --> 00:05:50,000
+so when they shrink and start to falter, it's a symptom of a wider problem.
+
+64
+00:05:50,000 --> 00:05:55,039
+It's been a slow process, but we all know deep down that something is going wrong.
+
+65
+00:05:55,759 --> 00:06:00,079
+If you think back to the TV shows of the 80s and the 90s, it wasn't uncommon to find
+
+66
+00:06:00,079 --> 00:06:04,879
+characters that live comfortably on just a single wage. Life was portrayed as financially
+
+67
+00:06:04,879 --> 00:06:09,680
+easy, and that's because relatively, it really was. But then things started to go wrong.
+
+68
+00:06:10,399 --> 00:06:15,199
+When you really think about how the economy has been, since I left high school in the late 2000s,
+
+69
+00:06:15,199 --> 00:06:19,680
+the middle class just couldn't catch a break. In 2008, there was the housing crisis,
+
+70
+00:06:19,680 --> 00:06:23,680
+which turned into an international global financial crisis. Europe got a second wind
+
+71
+00:06:23,680 --> 00:06:28,800
+of that disaster around 2011. In most of the western world, the average Joe was hit by an
+
+72
+00:06:28,800 --> 00:06:33,920
+economic bomb. Small businesses closed, jobs were lost, and households were struggling.
+
+73
+00:06:34,000 --> 00:06:38,960
+Over the next decade, growth was permanently slower than before because the real economy had died,
+
+74
+00:06:38,960 --> 00:06:42,879
+and I've covered that in detail in a previous video. But other than that,
+
+75
+00:06:42,879 --> 00:06:48,960
+people were still getting by, but then came COVID. The government response shuttered entire
+
+76
+00:06:48,960 --> 00:06:53,600
+economies, leaving everyday people straining themselves just to get by. And there's a
+
+77
+00:06:53,600 --> 00:06:58,480
+famous saying, question, what words do you never want to hear? Answer, I'm from the
+
+78
+00:06:58,480 --> 00:07:03,600
+government and I'm here to help. And this joke played out in real time when governments
+
+79
+00:07:03,600 --> 00:07:07,360
+turned on the money printers to counteract their shutdown policies. They thought they
+
+80
+00:07:07,360 --> 00:07:12,879
+were helping, but the result was yet another disaster. Now, today, we're left with rising
+
+81
+00:07:12,879 --> 00:07:18,400
+inflation, stagnant wages, and soaring living costs. And the pressure is only getting worse.
+
+82
+00:07:18,400 --> 00:07:24,000
+The middle, 40% of the global population, owns just 22% of global wealth. But at the
+
+83
+00:07:24,000 --> 00:07:29,199
+top end of town, it's exactly the opposite. Making money seems easier than ever before.
+
+84
+00:07:30,000 --> 00:07:33,759
+As it turns out, all that government printing helped the stock market,
+
+85
+00:07:33,759 --> 00:07:36,160
+which helped the billionaires. But we'll get to that in a bit.
+
+86
+00:07:37,439 --> 00:07:42,879
+As the saying goes, wealth begets more wealth. So this acceleration will continue. But before
+
+87
+00:07:42,879 --> 00:07:47,600
+we get into the weeds, we need to back up a little bit. How are these guys getting so rich?
+
+88
+00:07:47,680 --> 00:07:49,680
+How does one even become a billionaire?
+
+89
+00:07:55,600 --> 00:08:00,080
+Is it ethical to be a billionaire? Well, that depends on your political leanings.
+
+90
+00:08:00,080 --> 00:08:05,439
+But some individuals do indeed have a rag to riches story. But the pleasantries start and
+
+91
+00:08:05,439 --> 00:08:10,320
+end there. A growing number of billionaires tend to come through one of three routes,
+
+92
+00:08:10,320 --> 00:08:15,439
+monopolies, inheritance, and corruption. According to Forbes, the most common way
+
+93
+00:08:15,439 --> 00:08:20,399
+to become a billionaire is through finance. In fact, nearly one in six billionaires,
+
+94
+00:08:20,399 --> 00:08:25,759
+or just over 15%, made their money in finance and investments. The second most common way is
+
+95
+00:08:25,759 --> 00:08:31,680
+technology at 12%. And the third, manufacturing, also at 12%. But it's not just by hard work
+
+96
+00:08:31,680 --> 00:08:35,679
+and innovation. Billionaires don't play by the same rules as the rest of us.
+
+97
+00:08:35,679 --> 00:08:39,200
+And in this section, we'll cover the three ways that this is the case.
+
+98
+00:08:39,280 --> 00:08:44,720
+Number one, inheritance. In 2023, more new billionaires inherited their wealth than built
+
+99
+00:08:44,720 --> 00:08:50,560
+it. Every single billionaire under 30 was born rich. The problem is, in a lot of cases,
+
+100
+00:08:50,560 --> 00:08:54,080
+depending on where you are, there's no tax on this kind of wealth transfer.
+
+101
+00:08:54,879 --> 00:08:58,320
+While the average person works decades to build financial security,
+
+102
+00:08:58,320 --> 00:09:02,879
+billionaire families pass down fortunes, tax-free, and they keep their wealth locked
+
+103
+00:09:02,879 --> 00:09:08,640
+up in an exclusive family club. Number two, corruption and loopholes. Many argue that the
+
+104
+00:09:08,639 --> 00:09:13,840
+financial system is designed to protect the wealthy. Just look at the 2008 financial crisis.
+
+105
+00:09:13,840 --> 00:09:18,799
+Banks made reckless bets, crashed the economy, and then got bailed out with billions in taxpayer
+
+106
+00:09:18,799 --> 00:09:23,679
+dollars. It's capitalized the profits and socialized the losses. Meanwhile, millions of
+
+107
+00:09:23,679 --> 00:09:29,759
+people lost their homes, jobs, and savings. And it's not just banks. The very top percent
+
+108
+00:09:29,759 --> 00:09:34,480
+of earners avoid taxes like a plague. They stash money in offshore accounts or borrow
+
+109
+00:09:34,480 --> 00:09:38,960
+against their assets instead of selling them. And this means that they don't have taxable income.
+
+110
+00:09:38,960 --> 00:09:43,759
+If I told you that in the U.S., for example, the richest 25 people in the country paid an
+
+111
+00:09:43,759 --> 00:09:49,920
+effective tax rate of 3.4%, you'd cry foul. Why should the average person be taxed at
+
+112
+00:09:49,920 --> 00:09:55,519
+six times more when they earn a tiny, infinitesimal fraction of what the billionaires earn?
+
+113
+00:09:56,240 --> 00:10:00,960
+Well, although unfair, it's perfectly legal and it's a bit of a rabbit hole.
+
+114
+00:10:00,960 --> 00:10:05,360
+But hear me out. This is called the buy-borrow-die technique.
+
+115
+00:10:06,480 --> 00:10:11,519
+Edward McCaffrey, the scholar who coined the term buy-borrow-die, says that this technique
+
+116
+00:10:11,519 --> 00:10:16,879
+is being abused so much that it, quote, has basically killed the entire concept of an
+
+117
+00:10:16,879 --> 00:10:21,680
+income tax for the wealthiest individuals, end quote. But he goes on to add that it's, quote,
+
+118
+00:10:21,680 --> 00:10:27,360
+the most important tax avoidance strategy today, end quote. So here's how it goes.
+
+119
+00:10:27,440 --> 00:10:31,279
+Instead of working a nine-to-five wage and then getting taxed like a pleb,
+
+120
+00:10:31,279 --> 00:10:35,519
+the best way to earn wealth is through accumulating appreciating paper assets like
+
+121
+00:10:35,519 --> 00:10:40,399
+stocks. The wealth isn't taxed until these stocks are sold. Yes, a tariff surprise or
+
+122
+00:10:40,399 --> 00:10:44,879
+another stock market shock may make the wealthy sweat a little bit. But overall,
+
+123
+00:10:44,879 --> 00:10:48,800
+in the big picture over the past few decades, you'd be doing well.
+
+124
+00:10:49,680 --> 00:10:54,800
+And the next step, borrow. Since there are no taxes for loans, the genius part of this
+
+125
+00:10:54,800 --> 00:10:58,960
+is that the wealthy simply just borrow against their existing assets to buy more things.
+
+126
+00:10:59,520 --> 00:11:05,200
+Take Larry Ellison of Oracle, for example. He built a 270 million dollar yacht, an 80 million
+
+127
+00:11:05,200 --> 00:11:09,840
+dollar mansion, and even bought an island worth 30 million, all from borrowing against
+
+128
+00:11:09,840 --> 00:11:14,400
+30 billion of Oracle's stock as collateral. But I know what you're thinking. You can't
+
+129
+00:11:14,400 --> 00:11:18,640
+just keep doing this. These loans have to be paid off at some time. And when they do,
+
+130
+00:11:18,640 --> 00:11:22,080
+these guys are going to have to sell their assets. Well, that's not exactly true.
+
+131
+00:11:22,639 --> 00:11:27,120
+And this is the third part, die. All these guys have to do is just pay off the interest
+
+132
+00:11:27,120 --> 00:11:31,040
+on the loans until they die. If you're dead, you can't be taxed now, can you?
+
+133
+00:11:32,080 --> 00:11:36,560
+Furthermore, when an individual dies, the value that their assets gain during their lifetime
+
+134
+00:11:36,560 --> 00:11:41,120
+is exempt from tax. Their children can then use these gains to pay off the loans.
+
+135
+00:11:41,120 --> 00:11:45,360
+Technically, they're supposed to be a tax on inheritance, but that's no issue for top tax
+
+136
+00:11:45,360 --> 00:11:49,759
+agents. Trust accounts and other arrangements essentially eliminate any tax that has to be
+
+137
+00:11:50,399 --> 00:11:54,559
+This technique is cunning, smart, and hidden away from the average person.
+
+138
+00:11:58,960 --> 00:12:03,759
+Monopolies account for nearly 18% of billionaire wealth. When a single company dominates an
+
+139
+00:12:03,759 --> 00:12:10,639
+industry, it crushes competition, sets prices, and dictates wages. Back in the original Gilded
+
+140
+00:12:10,639 --> 00:12:17,120
+Age of the late 1800s, industrial giants controlled steel, oil, and banking. Today,
+
+141
+00:12:17,120 --> 00:12:23,440
+tech giants control global commerce, information, and infrastructure. Amazon controls over 80% of
+
+142
+00:12:23,440 --> 00:12:28,480
+online purchases in major European markets. Google owns 90% of the search engine market.
+
+143
+00:12:29,360 --> 00:12:33,600
+Metta, formerly Facebook, owns four of the top five most used social media platforms.
+
+144
+00:12:34,879 --> 00:12:38,480
+It's present in other industries, too. In Nigeria,
+
+145
+00:12:38,480 --> 00:12:43,919
+Aliko Dangote has a near monopoly on cement. This gives him massive economic and political
+
+146
+00:12:43,919 --> 00:12:49,599
+power across Africa. Gata Madani's conglomerate, the Adani Group, has faced accusations of crony
+
+147
+00:12:49,599 --> 00:12:55,039
+capitalism and monopolistic behavior, particularly in sectors like ports and energy. But monopolies
+
+148
+00:12:55,039 --> 00:13:00,000
+aren't just about wealth. They're about control. They can even influence government policies.
+
+149
+00:13:00,000 --> 00:13:03,599
+Even though the United States has checks and balances in place to avoid these exact
+
+150
+00:13:03,599 --> 00:13:08,319
+scenarios, it seems like the loopholes are just as accessible. With all of these factors
+
+151
+00:13:08,319 --> 00:13:12,959
+combined, we're looking at billionaire wealth increasing at an unprecedented rate.
+
+152
+00:13:12,960 --> 00:13:17,840
+It's actually not just increasing, it's accelerating. Last year, Oxfam predicted that
+
+153
+00:13:17,840 --> 00:13:21,759
+we would see the worst first trillionaire within a decade. Now we're on track to have
+
+154
+00:13:21,759 --> 00:13:26,720
+that in five years or sooner. But some people, believe it or not, think that this is actually
+
+155
+00:13:26,720 --> 00:13:30,560
+a good thing. They believe that if there's more billionaires, that means that economies are
+
+156
+00:13:30,560 --> 00:13:34,320
+indeed doing well, and it means that there are opportunities to make massive money.
+
+157
+00:13:34,320 --> 00:13:38,639
+And while it's true that wealthy economies tend to create super rich individuals,
+
+158
+00:13:38,639 --> 00:13:42,320
+if you look at the GDP per capita and compare it to the number of billionaires,
+
+159
+00:13:42,320 --> 00:13:49,120
+there's no real correlation. For example, India, Mexico and Brazil have far more billionaires than
+
+160
+00:13:49,120 --> 00:13:53,680
+Sweden or Switzerland, despite the fact that these two European countries have a higher GDP
+
+161
+00:13:53,680 --> 00:13:58,879
+per capita. So what does that mean? It means that in most countries, a handful of ultra-rich
+
+162
+00:13:58,879 --> 00:14:03,120
+individuals control a massive share of the nation's wealth, while the majority of people
+
+163
+00:14:03,120 --> 00:14:10,160
+struggle to get by. Now we have to talk about the financial situations that have allowed
+
+164
+00:14:10,159 --> 00:14:15,679
+billionaires to grow so rapidly very recently. Pumping more money into an economy doesn't
+
+165
+00:14:15,679 --> 00:14:20,639
+automatically create more wealth for the broader society. Leaving aside the inflation risk,
+
+166
+00:14:20,639 --> 00:14:25,679
+there's something else at play. The Cantillon effect. The term comes from Richard Cantillon,
+
+167
+00:14:25,679 --> 00:14:30,240
+an 18th century economist. He noticed that when new money enters an economy,
+
+168
+00:14:30,240 --> 00:14:35,120
+it doesn't spread out evenly through society. Instead, it benefits those who get access to
+
+169
+00:14:35,120 --> 00:14:40,480
+the money first. The wealthy and big corporations have first access to new money. They get it
+
+170
+00:14:40,480 --> 00:14:45,919
+through government contracts, central bank policies and financial institutions. They then
+
+171
+00:14:45,919 --> 00:14:51,440
+use it to buy stocks, real estate and businesses before inflation kicks in. But for regular
+
+172
+00:14:51,440 --> 00:14:56,240
+people who get their money later, they see higher prices before their wages or savings
+
+173
+00:14:56,240 --> 00:15:01,360
+have a chance to catch up. Think of it like pouring water from a glass onto the top of a
+
+174
+00:15:01,360 --> 00:15:06,159
+very large sponge. The water soaks the top first, but by the time it reaches the bottom,
+
+175
+00:15:06,159 --> 00:15:10,399
+it's soaked through and there's only just a few drops left. And of course, this leads us back
+
+176
+00:15:10,399 --> 00:15:14,240
+to what we talked about earlier. When governments pumped millions upon millions of dollars
+
+177
+00:15:14,240 --> 00:15:18,240
+through the economy, through the mechanism of stimulus checks, unemployment benefits
+
+178
+00:15:18,240 --> 00:15:23,360
+and business relief programs, it put cash into people's pockets, which at first seemed great.
+
+179
+00:15:23,919 --> 00:15:28,480
+But then what happened next? Prices skyrocketed, especially, once again,
+
+180
+00:15:28,480 --> 00:15:33,840
+the prices of assets. Housing and stocks went on an absolute tear. And guess who's most likely
+
+181
+00:15:33,840 --> 00:15:37,920
+to own these assets? The wealthy. They already had their real estate and their stocks,
+
+182
+00:15:37,920 --> 00:15:42,399
+so they were happy to see the values soar. Meanwhile, everyday people saw their buying
+
+183
+00:15:42,399 --> 00:15:46,800
+power shrink due to inflation. Once the stimulus money ran out, people were back
+
+184
+00:15:46,800 --> 00:15:51,680
+to where they started. Except now, everything was more expensive. And this is why the rich
+
+185
+00:15:51,680 --> 00:15:56,080
+get richer during times of economic expansion. And it's the same reason why the working
+
+186
+00:15:56,080 --> 00:16:01,680
+class struggles to keep up with rising costs. So it really is more money, more problems.
+
+187
+00:16:01,680 --> 00:16:05,040
+And there's some other side effects when new money enters into an economy.
+
+188
+00:16:05,040 --> 00:16:09,120
+Whenever a country's government pumps in more money, it supercharges the stock market.
+
+189
+00:16:09,840 --> 00:16:14,080
+Well, this is not universal, but it's mostly true in the context of modern capitalist
+
+190
+00:16:14,080 --> 00:16:18,400
+economies. And the claim is backed up by this chart, which is adapted from the financial
+
+191
+00:16:18,400 --> 00:16:22,800
+analyst Lynn Alden's research in her book, Broken Money. It shows the super tight
+
+192
+00:16:22,800 --> 00:16:28,400
+correlation between the S&P 500 and government liquidity injections. In simple words,
+
+193
+00:16:28,400 --> 00:16:32,160
+this chart demonstrates that the more money that the Fed and the US Treasury pump into
+
+194
+00:16:32,160 --> 00:16:37,920
+an economy, the higher the stock prices soar. These are all publicly traded stocks,
+
+195
+00:16:37,920 --> 00:16:41,920
+so it must be good for all investors at least. But the problem lies elsewhere.
+
+196
+00:16:42,480 --> 00:16:49,600
+In 2022, the wealthiest 10% possessed, get this, 93% of all stock market equity.
+
+197
+00:16:49,680 --> 00:16:53,920
+That means that when the government floods the economy with money, it primarily benefits those
+
+198
+00:16:53,920 --> 00:16:58,240
+who already have their wealth invested in assets like stocks. For the ultra rich,
+
+199
+00:16:58,240 --> 00:17:03,200
+it's all their Christmases at once. Meanwhile, for everyone else, enjoy higher rent and
+
+200
+00:17:03,200 --> 00:17:08,319
+struggling to buy eggs. If you think that sounds unfair, you're not alone. Gary Stevenson,
+
+201
+00:17:08,319 --> 00:17:12,960
+a former financial trader, economist and YouTuber who graduated from the London School
+
+202
+00:17:12,960 --> 00:17:14,720
+of Economics explains perfectly.
+
+203
+00:17:43,680 --> 00:18:12,880
+Stevenson's words drive home a truth. Simply handing out money isn't going to bridge
+
+204
+00:18:12,880 --> 00:18:18,240
+the wealth gap. It's a much deeper structural problem. And as time progresses, people are
+
+205
+00:18:18,240 --> 00:18:23,120
+becoming more and more frustrated about it. People are pushing back. Their bitterness is
+
+206
+00:18:23,120 --> 00:18:27,680
+spilling over online and in the streets. All of this isn't just noise. People are
+
+207
+00:18:27,680 --> 00:18:29,040
+actually demanding real change.
+
+208
+00:18:43,280 --> 00:18:49,600
+Why? Because that is the world that we live in that, you know, she is now working three jobs
+
+209
+00:18:49,600 --> 00:18:56,960
+just to survive. I had another gentleman who had mentioned that he's now living paycheck
+
+210
+00:18:56,960 --> 00:19:04,320
+to paycheck at a job that he's been at for 30 years and he's a single father. And he's never
+
+211
+00:19:04,320 --> 00:19:10,480
+felt the pinch like he's doing now. They are now using their credit cards just to pay
+
+212
+00:19:11,120 --> 00:19:18,480
+some of their bills to survive. So what can be done? Now, in theory, a wealthier society should
+
+213
+00:19:18,480 --> 00:19:23,120
+mean better lives for everyone, better schools, better healthcare and better infrastructure.
+
+214
+00:19:23,680 --> 00:19:28,079
+But if we do compare today to any time in history up until parts of the 20th century,
+
+215
+00:19:28,079 --> 00:19:32,880
+life is indeed still better. Children don't die of curable illnesses. Most of us have
+
+216
+00:19:32,880 --> 00:19:38,000
+a smartphone, electricity and clean water. But the time we're in now feels especially
+
+217
+00:19:38,000 --> 00:19:43,039
+painful because living standards are moving backwards. And now it's at an accelerated rate.
+
+218
+00:19:43,680 --> 00:19:48,240
+Governments can start with progressively taxing the ultra rich. The idea is that a chunk of
+
+219
+00:19:48,240 --> 00:19:52,960
+their income can go into funding things like schools and healthcare. A problem with taxing
+
+220
+00:19:52,960 --> 00:19:56,079
+the rich, though, is that they could just leave the country if the laws become too
+
+221
+00:19:56,079 --> 00:20:01,519
+strict. So it is still a balance. Speaking of having a balance, here's Milton Friedman
+
+222
+00:20:01,519 --> 00:20:06,960
+on why 100% inheritance tax is a bad idea, for example. And given that the kind of
+
+223
+00:20:06,960 --> 00:20:11,519
+people who become successful capitalists do not become that way by giving away their
+
+224
+00:20:11,519 --> 00:20:16,400
+wealth voluntarily, isn't it necessary to forcibly redistribute wealth before you
+
+225
+00:20:16,400 --> 00:20:21,840
+can begin to operate under a capitalist system? No, it is not. What is the effect of 100%
+
+226
+00:20:21,840 --> 00:20:28,160
+inheritance tax? The 100% inheritance tax is to encourage people to dissipate their
+
+227
+00:20:28,160 --> 00:20:34,240
+wealth in high living. What's the harm in that? The harm in that is that where do you
+
+228
+00:20:34,240 --> 00:20:38,480
+get the factories? Where do you get the machines? Where do you get the capital
+
+229
+00:20:38,480 --> 00:20:43,680
+investment? Where do you get the incentive to improve technology? We do forget that the rich,
+
+230
+00:20:43,680 --> 00:20:47,680
+definitely not all of them, but at least some of them, invest in companies. And this does
+
+231
+00:20:47,680 --> 00:20:52,480
+help the economy. I guess the difference between now and when this was filmed is that
+
+232
+00:20:52,480 --> 00:20:56,720
+companies today tend to be focused more on extracting money at all costs, more often than
+
+233
+00:20:56,720 --> 00:21:00,960
+not, rather than creating better products for the consumers. But that's a story for another
+
+234
+00:21:00,960 --> 00:21:06,240
+day. And then there's the financial sector, which is where I think most of the work can be
+
+235
+00:21:06,240 --> 00:21:10,960
+done. Authorities should look at tightening loopholes. Allowing companies to buy back their
+
+236
+00:21:10,960 --> 00:21:15,759
+own stock was an absolute disaster, both for the quality of our companies and for wealth
+
+237
+00:21:15,759 --> 00:21:20,319
+inequality. Companies being able to buy their own stock and push up the price sounds like
+
+238
+00:21:20,319 --> 00:21:26,000
+fraud, but it's legal. Economist Lenore Palladino puts it this way. Stock buyback
+
+239
+00:21:26,000 --> 00:21:30,240
+programs are, quote, one of the drivers of our imbalanced economy, in which corporate
+
+240
+00:21:30,240 --> 00:21:34,960
+profits and shareholder payments continue to grow while wages for typical workers stay flat.
+
+241
+00:21:35,680 --> 00:21:39,519
+And then of course, we have offshore tax havens, creative accounting practices,
+
+242
+00:21:39,519 --> 00:21:44,400
+or questionable capital gains exemptions. Closing these loopholes could help the wealthiest
+
+243
+00:21:44,400 --> 00:21:49,440
+contribute their fair share, at least more than 3.4% in tax. Of course, there's the
+
+244
+00:21:49,440 --> 00:21:52,960
+argument that it's their hard earned money. Why should they give it back? But this isn't
+
+245
+00:21:52,960 --> 00:21:56,880
+about punishing success. It's about making sure the system doesn't keep reinforcing
+
+246
+00:21:56,960 --> 00:22:01,040
+advantages for those already at the top. Closing tax loopholes shouldn't be that
+
+247
+00:22:01,040 --> 00:22:05,840
+controversial. And yes, governments do squander tax revenues like a fat kid in a candy store,
+
+248
+00:22:05,840 --> 00:22:10,160
+but at least there's a potential for a fairer tax system to help those who need it most
+
+249
+00:22:10,160 --> 00:22:14,720
+without inflation. These solutions would be about building a society where success doesn't
+
+250
+00:22:14,720 --> 00:22:18,320
+come at the expense of everyone else. It's about creating opportunities for everyone,
+
+251
+00:22:18,320 --> 00:22:23,600
+not just protecting the privileges of a few. There's also proposals of raising the minimum
+
+252
+00:22:23,600 --> 00:22:29,120
+wage. If multiple countries in the west do have a working poor class, that is, they have full time
+
+253
+00:22:29,120 --> 00:22:34,160
+jobs but still live in their cars, something is clearly wrong. But then again on the flip
+
+254
+00:22:34,160 --> 00:22:38,720
+side, many argue that raising the minimum wage could lead to job losses or increased costs
+
+255
+00:22:38,720 --> 00:22:43,840
+for small businesses, and ultimately even end up being inflationary. These solutions are hard,
+
+256
+00:22:43,840 --> 00:22:48,160
+they're nuanced, and they'll take time, competent leadership, and a lot of thought to
+
+257
+00:22:48,160 --> 00:22:52,480
+get right. But there's no getting around it. If we want to avoid mass riots and social
+
+258
+00:22:52,480 --> 00:22:57,200
+disruption in 10 years, ultimately something has to be done if we're to lessen the gap.
+
+259
+00:22:57,200 --> 00:22:58,079
+Here's Gary again.
+
+260
+00:23:22,480 --> 00:23:41,200
+These are not one size fits all solutions. The economic situation and overall state of
+
+261
+00:23:41,200 --> 00:23:45,759
+your country can be extremely different depending on where you are. Not every place has the same
+
+262
+00:23:45,759 --> 00:23:51,120
+problem. What works in the US might flop in India or vice versa. The fact of the matter is,
+
+263
+00:23:51,200 --> 00:23:55,600
+billionaire wealth buys political influences to tip the scales in their favour. And it's an
+
+264
+00:23:55,600 --> 00:24:00,240
+uphill battle, but we have to start somewhere. And even if we are just discussing solutions in
+
+265
+00:24:00,240 --> 00:24:05,200
+broader strokes, it's a start. So what do you guys think about all of this? It is a strange
+
+266
+00:24:05,200 --> 00:24:08,880
+time to live in, but I'd like to hear what some of your solutions could be. Maybe we can
+
+267
+00:24:08,880 --> 00:24:13,280
+get a conversation going in the comments section below. To kick off the discussion,
+
+268
+00:24:13,280 --> 00:24:17,440
+over on the ColdFusion Instagram, there was a post in reference to this video. Under it,
+
+269
+00:24:17,440 --> 00:24:21,440
+there were some interesting comments in response. One user expresses a common viewpoint.
+
+270
+00:24:21,440 --> 00:24:25,120
+If a billionaire creates jobs for countless people, then what's wrong with that?
+
+271
+00:24:25,120 --> 00:24:29,039
+The main problem is hoarding wealth and not really contributing to society.
+
+272
+00:24:29,039 --> 00:24:32,799
+I guess that ties into what we've learned from this episode. A lot of the ultra wealthy
+
+273
+00:24:32,799 --> 00:24:36,720
+don't make most of their money from industry, but investments, especially the stock market,
+
+274
+00:24:36,720 --> 00:24:40,880
+and taking out loans against those investments is collateral. But do you agree with that?
+
+275
+00:24:40,880 --> 00:24:45,039
+Billionaires are fine as long as they create jobs and contribute to society.
+
+276
+00:24:45,039 --> 00:24:50,319
+Feel free to discuss. The Trump tariffs gave the world whiplash. Stock markets plunged,
+
+277
+00:24:50,319 --> 00:24:55,039
+vaulted higher, and then plunged again. But in the chaos, some people made money.
+
+278
+00:25:05,759 --> 00:25:09,359
+And this has caused accusations of insider trading. But if you wanted to know more
+
+279
+00:25:09,359 --> 00:25:13,759
+about this news story, it's such a politically charged topic that it makes things hard.
+
+280
+00:25:13,839 --> 00:25:17,200
+How would you get the viewpoints of both sides? Well, today's sponsor,
+
+281
+00:25:17,200 --> 00:25:21,920
+Ground News, is doing just that. Ground News is a website and app developed by a former
+
+282
+00:25:21,920 --> 00:25:26,640
+NASA engineer. She was on a mission to give readers an easy, data-driven, objective way to
+
+283
+00:25:26,640 --> 00:25:31,359
+read the news. Using the Trump tariff story as an example, sources on the left highlighted
+
+284
+00:25:31,359 --> 00:25:35,759
+Trump's potential profit from insider information, conflicts of interest, and not to mention
+
+285
+00:25:35,759 --> 00:25:41,119
+potential economic damage. Sources on the right, however, slammed the Democrat investigations
+
+286
+00:25:41,120 --> 00:25:45,920
+as partisan games. And they portrayed the tariff pause to be a strategic move against the enemy,
+
+287
+00:25:45,920 --> 00:25:50,400
+namely China. And it was also seen as a calculated success. Scrolling down,
+
+288
+00:25:50,400 --> 00:25:53,840
+I can compare every single article on the topic with convenient tags.
+
+289
+00:25:53,840 --> 00:25:58,400
+Tags that show me context about the source, like how factual it is, and who owns it.
+
+290
+00:25:58,400 --> 00:26:02,240
+Ground News' blind spot feed is also great. This shows you stories that have been
+
+291
+00:26:02,240 --> 00:26:06,720
+underreported by one side of the political spectrum. For example, if you're on the left,
+
+292
+00:26:06,720 --> 00:26:11,440
+you might have missed the story about gold reaching record highs. So, Ground News is a
+
+293
+00:26:11,440 --> 00:26:15,279
+fantastic tool for getting international views, shifting through misinformation,
+
+294
+00:26:15,279 --> 00:26:20,000
+and identifying bias. They provide you all the tools you need to be a critical thinker.
+
+295
+00:26:20,000 --> 00:26:23,759
+Today, Ground News is offering 40% off their Vantage subscription.
+
+296
+00:26:24,319 --> 00:26:27,839
+This comes with a feature called My News Bias, so you can even track your news
+
+297
+00:26:27,839 --> 00:26:33,519
+viewing habits over time. To get started, go to ground.news slash coldfusion.
+
+298
+00:26:34,480 --> 00:26:38,000
+But anyway, that's about it from me. Thanks for watching this longer episode.
+
+299
+00:26:38,000 --> 00:26:42,160
+I really appreciate you staying till the end. My name is Tagogo, and you've been watching
+
+300
+00:26:42,160 --> 00:26:48,160
+ColdFusion, and I'll catch you again soon for the next episode. Cheers guys. Have a good one.
+
+301
+00:27:03,519 --> 00:27:18,160
+ColdFusion. It's new thinking.
